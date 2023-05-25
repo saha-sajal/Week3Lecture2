@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week3Lecture2</string>
+
+    <string-array name="spinner_data">
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Latte</item>
+    </string-array>
+
+</resources>
